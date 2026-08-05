@@ -1,0 +1,7 @@
+streamlit
+torch
+soundfile
+numpy
+transformers
+sentence-transformers
+rank-bm25
