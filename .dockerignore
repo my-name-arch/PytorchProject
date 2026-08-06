@@ -1,0 +1,12 @@
+.git
+__pycache__/
+*.pt
+*.pth
+*.onnx
+*.bin
+*.csv
+*.parquet
+venv/
+.env
+data/
+outputs/
